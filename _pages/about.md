@@ -1,6 +1,7 @@
 ---
+theme:jekyll-theme-cayman
 permalink: /
-title: "Qinqing Jia"
+title: "Welcome to the Qinqing Jia's homepage!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,9 +14,7 @@ Hi, I'm **Qinqing Jia** — an undergraduate student at Beijing University of Po
 
 **Beijing University of Posts and Telecommunications (BUPT)**  
 *B.E. in Computer Science and Technology* | 2023 – Present (expected 2027)  
-- **Rank**: Top 11% overall, Top 6% in the second year (continuously improving)  
 - **English Proficiency**: CET-4 627, CET-6 542  
-- **Selected Courses**: Database System Principles (98), Operating Systems (96), Algorithm Design and Analysis (97), Python Programming (100)  
 - **Skills**: Proficient in Python (PyTorch, data processing), C++ (STL), mathematical modeling; experienced in deep learning, multimodal retrieval, and full‑stack development (Vue3, algorithm integration).
 
 ## Research & Publications
@@ -48,4 +47,3 @@ A digital transformation platform for university physics labs, shifting the focu
 ## Contact
 
 - **Email**: [sunshine‑jqq@bupt.edu.cn](mailto:sunshine-jqq@bupt.edu.cn)  
-- **Phone**: +86 15214130676
