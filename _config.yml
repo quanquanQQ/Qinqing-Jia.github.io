@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "Caynon" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "Cayman" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Qinqing Jia / self homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
