@@ -1,5 +1,4 @@
 ---
-theme:jekyll-theme-cayman
 permalink: /
 title: "Welcome to the Qinqing Jia's homepage!"
 author_profile: true
